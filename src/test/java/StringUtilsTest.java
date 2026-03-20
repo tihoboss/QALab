@@ -1,10 +1,9 @@
-package tiho.boss;
-
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
+import tiho.boss.StringUtil;
 
-import static org.junit.Assert.*;
-
+import static org.junit.jupiter.api.Assertions.*;
+//2 задание
 public class StringUtilsTest {
     StringUtil utils = new StringUtil();
 
