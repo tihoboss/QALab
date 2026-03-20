@@ -5,7 +5,7 @@ import tiho.boss.UserService;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.mockito.Mockito.*;
-
+//3 задание
 public class UserServiceTest {
 
     private IRepository<String> repository;
